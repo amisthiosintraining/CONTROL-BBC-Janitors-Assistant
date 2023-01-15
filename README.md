@@ -1,5 +1,4 @@
 # CONTROL | BBC | Janitor's Assistant
-
 Basic paint bucket recolours of the Janitor's Assistant outfit.
 
 <img src="https://imgur.com/hCI8rkg.png">
